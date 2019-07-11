@@ -1,0 +1,17 @@
+{
+  "name": "Scam.io",
+  "version": "1.0.0",
+  "description": "A Supreme bot in progress...",
+  "main": "app.js",
+  "scripts": {
+    "us": "node app.js us",
+    "eu": "node app.js eu"
+  },
+  "author": "Garrett Guthrie",
+  "license": "N/A",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "log4js": "^3.0.6",
+    "qs": "^6.5.2"
+  }
+}
