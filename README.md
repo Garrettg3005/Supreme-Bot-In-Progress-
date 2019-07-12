@@ -1,5 +1,5 @@
-# Supreme Bot
 Supreme Bot
+In progress and INCOMPLETE. Made in Node.js.
 
 To use this bot:
 
@@ -20,7 +20,8 @@ Run `npm run us` if you're from US
 A config file will be created. Enter information inside.
 
 Finally,
+
 Run `npm run eu` if you're from EU
 Run `npm run us` if you're from US
 
-Method 1 works best typically.
+Method 1 works best typically. Feel free to help me complete this :)
