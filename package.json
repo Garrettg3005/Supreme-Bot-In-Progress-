@@ -11,7 +11,7 @@
   "license": "N/A",
   "dependencies": {
     "axios": "^0.18.1",
-    "log4js": "^3.0.6",
+    "log4js": "^6.4.0",
     "qs": "^6.5.2"
   }
 }
